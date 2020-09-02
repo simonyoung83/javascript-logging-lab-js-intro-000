@@ -1,3 +1,3 @@
 console.error("halp!")
-console.log("yoohoo")
-console.warn("yes")
+console.log("ATM machine is not wowrking")
+console.warn("tempoary unavailable")
